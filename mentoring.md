@@ -24,7 +24,7 @@ layout: default
 - Tao Ge (Graduate rotation in Imaging Science, Fall 2018): *Proximal Newton Methods for X-Ray Imaging with Non-Smooth Regularization*
 
 ### MS students:
-- Jenil Shah: 2025, MS in [Computational Science, Engineering, and Mathematics (CSEM)](https://oden.utexas.edu/academics/masters-program/): [Low Rank-Based Image Reconstruction Methods for Dynamic Contrast Enhanced Multispectral Optoacoustic Tomography](https://doi.org/10.26153/tsw/62057). Now finantial analyst.
+- Jenil Shah: 2025, MS in [Computational Science, Engineering, and Mathematics (CSEM)](https://oden.utexas.edu/academics/masters-program/): [Low Rank-Based Image Reconstruction Methods for Dynamic Contrast Enhanced Multispectral Optoacoustic Tomography](https://doi.org/10.26153/tsw/62057). Now Data Scientist II at Voleon Capital Management.
 - Venugopal Ranganathan: 2024, MS in [Computational Science, Engineering, and Mathematics (CSEM)](https://oden.utexas.edu/academics/masters-program/): [*Solving Large-Scale Inverse Problems in hIPPYlibX: An Application to Quantitative Photoacoustic Tomography*](https://doi.org/10.26153/tsw/56684). Now Ph.D. student in at UT Austin.
 - Karan Prakash Hiranandani: 2023, MS in [Computational Science, Engineering, and Mathematics (CSEM)](https://oden.utexas.edu/academics/masters-program/): [*hIPPYfire: an inexact Newton-CG method for solving inverse problems governed by PDE forward models*](http://dx.doi.org/10.26153/tsw/47153). Now R&D Engineer at ANSI
 - Peijie Qiu: 2021, MS in Computer Engineering: [*Data-Driven Approaches to Solve Inverse Problems*](https://openscholarship.wustl.edu/eng_etds/571/)
