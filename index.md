@@ -9,8 +9,8 @@ layout: default
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
 <p> <b>Ashray Saxena, PhD Student</b></p>
-<p> <em>Graduate Research Assistant</em>, <a href="https://www.bme.utexas.edu/" target="blank">Department of Civil Engineering</a><br>
-<em>Core faculty</em>, <a href="https://oden.utexas.edu" target="blank">Oden Institute</a><br>
+<p> <em>Graduate Research Assistant</em>, <a href="https://caee.utexas.edu/" target="blank">Department of Civil Engineering</a><br>
+<em>Graduate Research Assistant</em>, <a href="https://sites.utexas.edu/zornberg/current-students/" target="blank"> CAEE </a><br>
 <a href="https://utexas.edu" target="blank">The University of Texas at Austin</a></p>
 <p> <a href="https://oden.utexas.edu/news-and-events/news/Computational-Breakthroughs-in-Medical-Imaging-Umberto-Villa/" target="blank"> Faculty Profile</a></p>
 <p> <a href="files/UmbertoVilla_cv.pdf">Curriculum vitae </a> </p>
