@@ -3,7 +3,7 @@ title: Mentoring
 layout: default
 ---
 
-## Current students & postdocs:
+## Current students:
 
 ### MS students
 - Maria Cepeda: Fall 2025-Present, Influence of temperature on cracking characteristics of geosynthetic-reinforced asphalt using cross-shear test. (Advisor: Dr. Jorge G. Zornberg)
