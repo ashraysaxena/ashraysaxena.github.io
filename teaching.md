@@ -4,31 +4,14 @@ layout: default
 ---
 
 ### The University of Texas in Austin
-- CSE 380: Tools and Techniques of Computational Science (**Fall 2024**) [*syllabus*](files/syllabus_ToolsTechF2024.pdf)
-- CSE 393P/GEO 391/ME 397/ORI 397: Computational and Variational Methods for Inverse Problems (**Spring 2024**, Laboratory Instructor)
-- CSE 380: Tools and Techniques of Computational Science (**Fall 2023**)
-- CSE 393P/GEO 391/ME 397/ORI 397: Computational and Variational Methods for Inverse Problems (**Spring 2023**, Laboratory Instructor)
-- CSE 380: Tools and Techniques of Computational Science (**Fall 2022**)
-- CSE 397/GEO 391/ME 397/ORI 397: [*Computational and Variational Methods for Inverse Problems*](https://uvilla.github.io/inverse17/) (**Fall 2017**, co-taught with Dr. Ghattas)
-- GEO 384: Computational Methods for Geophysics (*recurrent guest lecturer* in Dr. Ghattas's class)
+- ARE S358: Cost Estimating in Building Construction (**Summer 2026**, Teaching Assistant)
+- ARE S358: Cost Estimating in Building Construction (**Summer 2025**, Teaching Assistant)
+- CE 387C: Geoenvironmental Engineering (**Spring 2025**, Laboratory Instructor)
+- CE 387C: Geoenvironmental Engineering (**Fall 2023**, Laboratory Instructor)
+- NEU 365P: Programming and Data Analysis in Modern Neuroscience (**Spring 2022**, Teaching Assistant)
+- M 408C: Differential and Integral Calculus (**Fall 2021**, Teaching Assistant)
 
-### Summer schools
-- Gene Golub SIAM Summer School: [*Inverse Problems: Systematic Integration of Data with Models under Uncertainty*](http://g2s3.com/), June 17-30, 2018, Brekenbridge, Colorado 
-
-### Washington University in St. Louis
-- ESE 5932:Computational Methods for Imaging Science (**Spring 2022** co-taught with Dr. Y. Wang)
-- ESE 5932: Computational Methods for Imaging Science (**Spring 2020**)
-- BME 493/593: Computational Methods for Imaging Science (**Spring 2019**)
-- ESE 415: Optimization (*recurrent guest lecturer* in Dr. Kamilov's class)
-
-
-### Emory University (Atlanta, GA)
-- Math 221: Linear Algebra (*Lab instructor*, **Fall 2012**)
-- Math 112: Calculus II (**Spring 2012**)
-- Math 111: Calculus I (**Fall 2011**)
-- Math 112: Calculus II (**Spring 2011**)
-- Math 115: Life Science Calculus I (*Lab instructor*, **Fall 2010**)
-- Math 116: Life Science Calculus II (*Lab instructor*, **Spring 2010**)
-- Math 115: Life Science Calculus I (*Lab instructor*, **Fall 2010**)
-- Math 116: Life Science Calculus II (*Lab instructor*, **Spring 2010**)
-- Math 115: Life Science Calculus I (*Lab instructor*, **Fall 2009**)
+### Indian Institute of Technology (IIT) Gandhinagar
+- CE 301: Soil Mechanics (**Spring 2021**, Laboratory Instructor)
+- CE 601: Advanced Geotechnical Engineering (**Fall 2020**, Teaching Assistant)
+- CE 602: Analysis and Design of Foundation Systems (**Fall 2020**, Teaching Assistant)
