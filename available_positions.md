@@ -199,3 +199,79 @@ Civil Engineering</b>.
     </a>
   </em>, 2017
 </p>
+
+<p>
+  <b>Winner of Civil Engineering Ideaz</b>.
+  <em>
+    <a href="https://iitr.ac.in/" target="_blank">
+      Indian Institute of Technology (IIT) Roorkee
+    </a>
+  </em>, 2017
+</p>
+
+<p>
+  <b>Received Institute Silver Medal (Diploma in Civil Engineering)</b>.
+  <em>
+    <a href="https://www.amu.ac.in/" target="_blank">
+      Aligarh Muslim University (AMU)
+    </a>
+  </em>, 2015
+</p>
+
+<p>
+  <b>Merit Scholarship</b>.
+  <em>
+    <a href="https://www.amu.ac.in/" target="_blank">
+      Aligarh Muslim University (AMU)
+    </a>
+  </em>, 2015, 2014 &amp; 2013
+</p>
+
+<h2>Service and Leadership Awards</h2>
+
+<p>
+  <b>Texas Cowboys Outstanding Student Volunteer Award, UT Tower Award, Highest Honor at UT</b>.
+  <em>
+    <a href="https://www.utexas.edu/" target="_blank">
+      The University of Texas at Austin
+    </a>
+  </em>, 2023
+</p>
+
+<h2>Athletic Achievements</h2>
+
+<p>
+  <b>Runner up in Table Tennis at Sir Shah Sulaiman Hall</b>.
+  <em>
+    <a href="https://www.amu.ac.in/" target="_blank">
+      Aligarh Muslim University (AMU)
+    </a>
+  </em>, 2019
+</p>
+
+<p>
+  <b>Runner up in Table Tennis at Sir Shah Sulaiman Hall</b>.
+  <em>
+    <a href="https://www.amu.ac.in/" target="_blank">
+      Aligarh Muslim University (AMU)
+    </a>
+  </em>, 2019
+</p>
+
+<p>
+  <b>Runner up in Mathlete</b>.
+  <em>
+    <a href="https://www.amu.ac.in/" target="_blank">
+      Aligarh Muslim University (AMU)
+    </a>
+  </em>, 2019
+</p>
+
+<p>
+  <b>Winner of Brick Bonding</b>.
+  <em>
+    <a href="https://www.amu.ac.in/" target="_blank">
+      Aligarh Muslim University (AMU)
+    </a>
+  </em>, 2018
+</p>
