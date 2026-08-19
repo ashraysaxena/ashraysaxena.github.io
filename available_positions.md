@@ -6,9 +6,18 @@ layout: default
 <h2>Academic Achievements</h2>
 
 <p>
+  <b>Graduate Student Assembly (GSA) Travel Award</b>.<br>
+  <em>
+    <a href="https://www.utexas.edu/" target="_blank">
+      The University of Texas at Austin
+    </a>
+  </em>, 2026 &amp; 2024.
+</p>
+
+<p>
 
  <b>Graduate Student Assembly (GSA) Travel Award</b>.
- [The University of Texas at Austin](https://www.utexas.edu/), 2026 & 2024.
+ <em>[The University of Texas at Austin](https://www.utexas.edu/)</em>, 2026 & 2024.
 
 </p>
 
