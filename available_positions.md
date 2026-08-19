@@ -12,34 +12,38 @@ layout: default
 
 </p>
 
- <p>
- <b>Graduate Student Assembly (GSA) Travel Award</b>.
- <em>[The University of Texas at Austin](https://www.utexas.edu/)</em>, 2026 & 2024.
- </p>
+<p>
 
- <p>
-<b>Dell 3 Minute Thesis Award</b>.
+ <b>Dell 3 Minute Thesis Award</b>.
  <em>[The University of Texas at Austin](https://www.utexas.edu/)</em>, 2026.
- </p>
 
- <p>
-<b>ASIE Houston Bright student scholarship</b>.
+</p>
+
+<p>
+
+ <b>ASIE Houston Bright student scholarship</b>.
  <em>[ASIE Houston](https://www.asiehouston.org/)</em>, 2025, 2024 & 2023.
- </p>
 
- <p>
-<b>Geosynthetic Institute Fellowship Grant</b>.
+</p>
+
+<p>
+
+ <b>Geosynthetic Institute Fellowship Grant</b>.
  <em>[Geosynthetic Institute Fellowship Program](https://geosynthetic-institute.org/gsifellows.htm)</em>, 2025 & 2024.
- </p>
 
- <p>
-<b>Professional Development Award</b>.
+</p>
+
+<p>
+
+ <b>Professional Development Award</b>.
  <em>[The University of Texas at Austin](https://www.utexas.edu/)</em>, 2025 & 2023.
- </p>
 
- <p>
-<b>Bright Spark Lecture Honor for paper titled ‘Optimizing ground improvement
+</p>
+
+<p>
+
+ <b>Bright Spark Lecture Honor for paper titled ‘Optimizing ground improvement
 through unsaturated soil mechanics and geosynthetics’</b>.
- <em>In PanAm Unsat Ottawa</em>, 2025.
- </p>
+ <em>[International Society for Soil Mechanics and Geotechnical Engineering](https://www.issmge.org/)</em>, 2025.
 
+</p>
