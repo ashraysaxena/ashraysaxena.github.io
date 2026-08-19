@@ -1,5 +1,5 @@
 ---
-title: Available Positions 
+title: Awards and Honors 
 layout: default
 ---
 
