@@ -11,29 +11,28 @@ layout: default
     <a href="https://www.utexas.edu/" target="_blank">
       The University of Texas at Austin
     </a>
-  </em>, 2026 &amp; 2024.
+  </em>, 2026 &amp; 2024
 </p>
 
 <p>
-
- <b>Graduate Student Assembly (GSA) Travel Award</b>.
- <em>[The University of Texas at Austin](https://www.utexas.edu/)</em>, 2026 & 2024.
-
+  <b>Dell 3 Minute Thesis Award</b>.<br>
+  <em>
+    <a href="https://www.utexas.edu/" target="_blank">
+      The University of Texas at Austin
+    </a>
+  </em>, 2026
 </p>
 
 <p>
-
- <b>Dell 3 Minute Thesis Award</b>.
- <em>[The University of Texas at Austin](https://www.utexas.edu/)</em>, 2026.
-
+  <b>ASIE Houston Bright student scholarship</b>.<br>
+  <em>
+    <a href="https://www.asiehouston.org/" target="_blank">
+      ASIE Houston
+    </a>
+  </em>, 2026
 </p>
 
-<p>
 
- <b>ASIE Houston Bright student scholarship</b>.
- <em>[ASIE Houston](https://www.asiehouston.org/)</em>, 2025, 2024 & 2023.
-
-</p>
 
 <p>
 
