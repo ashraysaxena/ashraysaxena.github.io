@@ -15,7 +15,7 @@ layout: default
 </p>
 
 <p>
-  <b>Dell 3 Minute Thesis Award</b>.<br>
+  <b>Dell 3 Minute Thesis Award</b>.
   <em>
     <a href="https://www.utexas.edu/" target="_blank">
       The University of Texas at Austin
@@ -24,7 +24,7 @@ layout: default
 </p>
 
 <p>
-  <b>ASIE Houston Bright student scholarship</b>.<br>
+  <b>ASIE Houston Bright student scholarship</b>.
   <em>
     <a href="https://www.asiehouston.org/" target="_blank">
       ASIE Houston
@@ -33,7 +33,7 @@ layout: default
 </p>
 
 <p>
-  <b>Geosynthetic Institute Fellowship Grant</b>.<br>
+  <b>Geosynthetic Institute Fellowship Grant</b>.
   <em>
     <a href="https://geosynthetic-institute.org/gsifellows.htm" target="_blank">
       Geosynthetic Institute Fellowship Program
@@ -42,7 +42,7 @@ layout: default
 </p>
 
 <p>
-  <b>Professional Development Award</b>.<br>
+  <b>Professional Development Award</b>.
   <em>
     <a href="https://www.utexas.edu/" target="_blank">
       The University of Texas at Austin
@@ -52,7 +52,7 @@ layout: default
 
 <p>
   <b>Bright Spark Lecture Honor for paper titled ‘Optimizing ground improvement
-through unsaturated soil mechanics and geosynthetics’</b>.<br>
+through unsaturated soil mechanics and geosynthetics’</b>.
   <em>
     <a href="https://www.issmge.org/" target="_blank">
       International Society for Soil Mechanics and Geotechnical Engineering
