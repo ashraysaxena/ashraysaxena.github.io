@@ -6,7 +6,7 @@ layout: default
 <h2>Academic Achievements</h2>
 
 <p>
-  <b>Graduate Student Assembly (GSA) Travel Award</b>.<br>
+  <b>Graduate Student Assembly (GSA) Travel Award</b>.
   <em>
     <a href="https://www.utexas.edu/" target="_blank">
       The University of Texas at Austin
