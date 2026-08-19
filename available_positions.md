@@ -5,6 +5,13 @@ layout: default
 
 <h2>Academic Achievements</h2>
 
+<p>
+
+ <b>Graduate Student Assembly (GSA) Travel Award</b>.
+ <em>[The University of Texas at Austin](https://www.utexas.edu/)</em>, 2026 & 2024.
+
+</p>
+
  <p>
  <b>Graduate Student Assembly (GSA) Travel Award</b>.
  <em>[The University of Texas at Austin](https://www.utexas.edu/)</em>, 2026 & 2024.
@@ -31,6 +38,8 @@ layout: default
  </p>
 
  <p>
-<b>Professional Development Award</b>.
- <em>[The University of Texas at Austin](https://www.utexas.edu/)</em>, 2025 & 2023.
+<b>Bright Spark Lecture Honor for paper titled ‘Optimizing ground improvement
+through unsaturated soil mechanics and geosynthetics’</b>.
+ <em>In PanAm Unsat Ottawa</em>, 2025.
  </p>
+
