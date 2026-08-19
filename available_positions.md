@@ -11,7 +11,7 @@ layout: default
     <a href="https://www.utexas.edu/" target="_blank">
       The University of Texas at Austin
     </a>
-  </em>,2026 &amp; 2024
+  </em>, 2026 &amp; 2024
 </p>
 
 <p>
@@ -20,7 +20,7 @@ layout: default
     <a href="https://www.utexas.edu/" target="_blank">
       The University of Texas at Austin
     </a>
-  </em>,2026
+  </em>, 2026
 </p>
 
 <p>
@@ -29,7 +29,7 @@ layout: default
     <a href="https://www.asiehouston.org/" target="_blank">
       ASIE Houston
     </a>
-  </em>,2025, 2024  &amp; 2023
+  </em>, 2025, 2024  &amp; 2023
 </p>
 
 <p>
@@ -38,7 +38,7 @@ layout: default
     <a href="https://geosynthetic-institute.org/gsifellows.htm" target="_blank">
       Geosynthetic Institute Fellowship Program
     </a>
-  </em>,2025 &amp; 2024
+  </em>, 2025 &amp; 2024
 </p>
 
 <p>
@@ -47,7 +47,7 @@ layout: default
     <a href="https://www.utexas.edu/" target="_blank">
       The University of Texas at Austin
     </a>
-  </em>,2025 &amp; 2023
+  </em>, 2025 &amp; 2023
 </p>
 
 <p>
@@ -57,6 +57,6 @@ through unsaturated soil mechanics and geosynthetics’</b>.<br>
     <a href="https://www.issmge.org/" target="_blank">
       International Society for Soil Mechanics and Geotechnical Engineering
     </a>
-  </em>,2025
+  </em>, 2025
 </p>
 
