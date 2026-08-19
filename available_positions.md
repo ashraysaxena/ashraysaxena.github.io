@@ -8,7 +8,7 @@ layout: default
 <p>
 
  <b>Graduate Student Assembly (GSA) Travel Award</b>.
- <em>[The University of Texas at Austin](https://www.utexas.edu/)</em>, 2026 & 2024.
+ [The University of Texas at Austin](https://www.utexas.edu/), 2026 & 2024.
 
 </p>
 
