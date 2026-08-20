@@ -7,5 +7,5 @@ title: Outreach
 
 <p>
   <b>Technical Session Chair, “Geosynthetics in Roadways: Performance, Design,
-Testing, and Field Applications”</b>. Geosynthetics Conference, 2027 [2026 - Present]
+Testing, and Field Applications”</b>. <em>Geosynthetics Conference, 2027</em> [2026 - Present]
 </p>
