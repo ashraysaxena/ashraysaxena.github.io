@@ -3,7 +3,7 @@ layout: default
 title: Outreach
 ---
 
-<h2>Academic Achievements</h2>
+<h2>Outreach and Service</h2>
 
 <p>
   2026 - Present: <b>Technical Session Chair, “Geosynthetics in Roadways: Performance, Design,
