@@ -19,8 +19,8 @@ Find me on: [Google Scholar](https://scholar.google.com/citations?user=PzSpbSAAA
 | :---: | :---: |
 | **A test method to evaluate geosynthetic-reinforced asphalt under pure shear loading (cross-shear test)** | **Full-field measurement of crack initiation and propagation using digital image correlation** |
 | ![Bayesian Inverse Problems](images/research/inverseproblems.png) | ![Optimal design of experiments](images/research/oed.png) |
-| **The process of extracting knowledge from data by solving inverse problems** | **Bayesian optimal design of experiments with sparsifying penalty** |
+| **Millability and recyclability of asphalt containing paving interlayers** | **Temperature-dependent interface adhesion in geosynthetic-reinforced asphalt** |
 | ![Random field](images/research/random_field.png) | ![Optimization under uncertainty](images/research/ouu.png) |
-| **Scalable sampling algorithms for Gaussian random fields** | **Optimization under uncertainty: application to turbulent jet** |
+| **Field monitoring and specification development for geosynthetic-reinforced asphaltic layers** | **Biopolymer stabilization of Class-F fly ash for strength, dust control, and leachate mitigation** |
 | ![Two-phases flow](images/research/two_phases.png) | ![AMGe](images/research/amge.png) | 
-| **Two-phases porous media flow** | **Hierarchy of agglomerated meshes for element-based AMG** | 
+| **Recycled aggregate and bottom ash concrete under elevated temperature** | **Geosynthetic encasement for stone columns and unsaturated ground improvement** | 
