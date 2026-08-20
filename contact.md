@@ -7,5 +7,5 @@ _**Mailing address**_<br>
 Maseeh Department of Civil, Architectural and Environmental Engineering
 <br>
 The University of Texas at Austin,
-Geotechnical Engineering Department 
+Geotechnical Engineering Department, 
 Austin, Texas 78712
