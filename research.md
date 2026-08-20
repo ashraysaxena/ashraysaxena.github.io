@@ -17,7 +17,7 @@ Find me on: [Google Scholar](https://scholar.google.com/citations?user=PzSpbSAAA
 
 | ![Quantitative Photoacoustic Tomography](images/research/qpact.png)| ![Computational Hemodynamics](images/research/hemodynamics.png) |
 | :---: | :---: |
-| **A test method to evaluate geosynthetic-reinforced asphalt under pure shear loading** | **Full-field measurement of crack initiation and propagation using digital image correlation** |
+| **A test method to evaluate geosynthetic-reinforced asphalt under pure shear loading (cross-shear test)** | **Full-field measurement of crack initiation and propagation using digital image correlation** |
 | ![Bayesian Inverse Problems](images/research/inverseproblems.png) | ![Optimal design of experiments](images/research/oed.png) |
 | **The process of extracting knowledge from data by solving inverse problems** | **Bayesian optimal design of experiments with sparsifying penalty** |
 | ![Random field](images/research/random_field.png) | ![Optimization under uncertainty](images/research/ouu.png) |
